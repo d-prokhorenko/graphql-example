@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1a0ae0b5-97c5-47b4-a3f5-9b722dba6abc" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,6 +73,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="feat: add graphql server" />
     <MESSAGE value="feat: create graphql server" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: create graphql server" />
+    <MESSAGE value="feat: add start script" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: add start script" />
   </component>
 </project>
