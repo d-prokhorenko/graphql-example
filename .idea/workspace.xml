@@ -5,15 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1a0ae0b5-97c5-47b4-a3f5-9b722dba6abc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/orders/orders.graphql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/orders/orders.model.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/orders/orders.resolvers.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/products/products.graphql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/products/products.model.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/products/products.resolvers.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -78,5 +69,10 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="feat: add graphql server" />
+    <MESSAGE value="feat: create graphql server" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: create graphql server" />
   </component>
 </project>
